@@ -81,7 +81,7 @@ class _NewsPageState extends State<NewsPage> {
                               EdgeInsets.symmetric(horizontal: 15, vertical: 0),
                           child: Align(
                             child: Text('${dataList[index].description}',
-                                style: TextStyle(color: Colors.green[800])),
+                                style: TextStyle(color: Colors.grey[800])),
                           ),
                         ),
                         SizedBox(

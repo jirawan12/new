@@ -45,7 +45,7 @@ class MyProfile extends StatelessWidget {
                     alignment: Alignment.centerLeft,
                     child: Center(
                       child: Text(
-                        "นางสาวจิราวรรณ บุญเลห์\n    jirawan boomlah",
+                        "นายธวัฒน์ ด้วงศรีเงิน\n    thawat duansindoen",
                         style: bulletStyle,
                       ),
                     ),
@@ -81,7 +81,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.arrow_forward),
                     title: Align(
                       child: new Text(
-                        'จบชั้นประถมศึกษาชั้นป.1 - 6 โรงเรียนบ้านซำ',
+                        'จบชั้นประถมศึกษาชั้นป.1 - 6 โรงเรียนคำอุดม',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1.8, 0),
@@ -91,7 +91,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.arrow_forward),
                     title: Align(
                       child: new Text(
-                        'จบชั้นมัธยมศึกษาปีที่ 1 - 6 โรงเรียนมหาชนะชีย',
+                        'จบชั้นมัธยมศึกษาปีที่ 1 - 6 โรงเรียนดงสว่าง',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1.8, 0),
@@ -109,7 +109,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.phone_android),
                     title: Align(
                       child: new Text(
-                        '0611249753',
+                        '097-010-5810',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1, 0),
@@ -119,7 +119,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.person),
                     title: Align(
                       child: new Text(
-                        'FB:kun jirawan',
+                        'FB: Bak Marang',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1, 0),
@@ -129,7 +129,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.email),
                     title: Align(
                       child: new Text(
-                        'jirawan.bunla61@sskru.ac.th',
+                        'thawat.duan61@sskru.ac.th',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1, 0),
@@ -166,7 +166,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.developer_board),
                     title: Align(
                       child: new Text(
-                        'ทำอาหาร',
+                        'เล่นเกม',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1, 0),
@@ -217,7 +217,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.arrow_forward),
                     title: Align(
                       child: new Text(
-                        '    ทำวันนี้ให้ดีกว่าเมื่อวาน',
+                        '    ไม่เลือกงานไม่ยากจน',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1.8, 0),
